@@ -1,18 +1,25 @@
 # Sales-Analysis-Report
 
-This project focuses on creating an interactive Power BI Sales Report using the Global sales dataset. The report provides key insights into global sales, region wise sales, and product performance, simplifying data interpretation for end-users.
+Developed an interactive Sales Analysis Dashboard in Power BI to provide actionable insights into sales performance across regions, segments, and product categories. The dashboard tracked key KPIs including Total Sales ($2.3M), Profit ($286K), Quantity (38K), and Discounts (1.56K).
 
-Key Features:
-Interactive Visualizations: Includes cards, charts, and map for analysis.
+Key Features & Insights:
 
-Insights Extracted:
-Analyzed 4 years of sales data to reveal trends across regions, segments, and markets.
-Identified top-performing products and loss-generating items for strategic decision-making.
-Provided actionable insights on customer behavior and business performance metrics.
+Sales by Segment: Consumer contributed 50.56%, Corporate 30.74%, and Home Office 18.7%.
 
-Tools and Technologies:
-Microsoft Excel: For importing sales data for analysis.
-Power BI: For building the report and creating visualizations.
+Regional Performance: West led with 31.68% of sales, followed by East (29.55%) and Central (29.55%).
 
-Purpose
-This repport is designed to simplify decision-making by presenting complex data in an intuitive, user-friendly format. It enables stakeholders to easily track key performance indicators and optimize business strategies.
+Top Sub-Categories: Phones ($223.84K) and Chairs ($203.41K) were the highest revenue drivers.
+
+Time Trend Analysis: Sales trends visualized by order date to track seasonality and growth patterns.
+
+Geographic View: State-level mapping to identify regional sales distribution.
+
+Tools & Techniques:
+
+Power BI for interactive dashboards.
+
+DAX measures for percentage-based KPIs and profit margin calculations.
+
+Slicers & drill-throughs for dynamic filtering by region, segment, and sub-category.
+
+This project enhanced business decision-making by providing a data-driven view of sales distribution, profitability, and growth trends, improving reporting efficiency and strategic planning.
