@@ -47,10 +47,13 @@ An interactive sales analysis dashboard built using **Power BI**, designed to pr
 
 ## 📂 Repository Contents
 
+├── sales_report.pbix # The Power BI dashboard file
+
+├── sales_report.xlsx # Raw/ processed data behind the dashboard
+
+├── sales_report.PNG # Dashboard screenshot / visual preview
+
+└── README.md # Project description & documentation
 
 
-DAX measures for percentage-based KPIs and profit margin calculations.
 
-Slicers & drill-throughs for dynamic filtering by region, segment, and sub-category.
-
-This project enhanced business decision-making by providing a data-driven view of sales distribution, profitability, and growth trends, improving reporting efficiency and strategic planning.
