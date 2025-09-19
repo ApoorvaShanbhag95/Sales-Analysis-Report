@@ -1,22 +1,53 @@
-# Sales-Analysis-Report
+# 📊 Sales Analysis Report
 
-Developed an interactive Sales Analysis Dashboard in Power BI to provide actionable insights into sales performance across regions, segments, and product categories. The dashboard tracked key KPIs including Total Sales ($2.3M), Profit ($286K), Quantity (38K), and Discounts (1.56K).
+An interactive sales analysis dashboard built using **Power BI**, designed to provide key insights into sales performance by region, segment, and product category. Ideal for helping stakeholders make informed decisions based on data.
 
-Key Features & Insights:
+---
 
-Sales by Segment: Consumer contributed 50.56%, Corporate 30.74%, and Home Office 18.7%.
+## 🔎 Key Metrics & Insights
 
-Regional Performance: West led with 31.68% of sales, followed by East (29.55%) and Central (29.55%).
+| Metric | Value |
+|---|---|
+| **Total Sales** | ~ **US$2.3 million** |
+| **Total Profit** | ~ **US$286,000** |
+| **Quantity Sold** | ~ **38,000 units** |
+| **Total Discounts** | ~ **US$1,560** |
 
-Top Sub-Categories: Phones ($223.84K) and Chairs ($203.41K) were the highest revenue drivers.
+### Segment & Category Highlights
 
-Time Trend Analysis: Sales trends visualized by order date to track seasonality and growth patterns.
+- **Sales by Segment**  
+  Consumer: ~50.56% • Corporate: ~30.74% • Home Office: ~18.70%  
+- **Top Sub-Categories by Revenue**  
+  Phones (~US$223.84K), Chairs (~US$203.41K) are the leading contributors.  
+- **Regional Performance**  
+  West region leads with ~31.68% of total sales, followed by East and Central.  
+- **Time Trends & Seasonality**  
+  Sales over time visualized to spot growth trends, peaks, and seasonal dips.  
+- **Geographical Distribution**  
+  State-level maps show which areas are outperforming or underperforming.
 
-Geographic View: State-level mapping to identify regional sales distribution.
+---
 
-Tools & Techniques:
+## ⚙️ Tools & Techniques
 
-Power BI for interactive dashboards.
+- **Power BI** for building the interactive dashboard  
+- **DAX** measures for calculations (profit margin, % share, etc.)  
+- **Slicers / Filters / Drill-through** for dynamic exploration by region, segment, category  
+
+---
+
+## 🎯 Business Value & Outcomes
+
+- Provides a unified view of sales & profitability to support strategic planning  
+- Helps identify which segments or regions need more attention or resources  
+- Clarifies which product categories are driving revenue (and which are lagging)  
+- Enables monitoring of discount impact and profitability  
+
+---
+
+## 📂 Repository Contents
+
+
 
 DAX measures for percentage-based KPIs and profit margin calculations.
 
